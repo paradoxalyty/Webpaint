@@ -133,6 +133,7 @@ header .padding {
 .portfolio li.active > a {
     background-color: #595959;
     color: #ffffff;
+    border: none;
 }
 
 .portfolio div > a > img {
