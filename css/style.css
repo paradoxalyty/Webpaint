@@ -263,5 +263,7 @@ footer h5 {
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 480px) {
-
+    .portfolio ul > li > a {
+        font-size: 8px;
+    }
 }
