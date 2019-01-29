@@ -1,3 +1,3 @@
 # Webpaint
 
-https://paradoxalyty.github.io/home/
+https://paradoxalyty.github.io/Webpaint/
