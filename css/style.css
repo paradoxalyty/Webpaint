@@ -246,6 +246,17 @@ footer h5 {
 
 /* Small Devices, Tablets */
 @media only screen and (max-width: 767px) {
+    
+    header .navbar-right {
+        display: flex;
+        justify-content: space-between;
+        font-size: 15px;
+    }
+    
+    header .navbar-right li a {
+        padding: 0;
+    }
+    
     header .padding30 {
         padding: 0 30px;
     }
