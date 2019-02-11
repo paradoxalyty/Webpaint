@@ -1,3 +1,3 @@
-# Webpaint
+# webpaint
 
 https://paradoxalyty.github.io/Webpaint/
