@@ -5,11 +5,6 @@ body {
     font-weight: 400;
 }
 
-/*containernerin petqa @ndhanur padding tam,
-bayc chem tvel, vorovhetev headeri conteiner@ nexa u ira patcharov myus containerneri
-paddingneri harcum djvaranum em
-*/
-
 .navbar-default {
     border: none;
     margin: 0;
@@ -197,9 +192,8 @@ header .ident {
     margin: 3px;
 }
 
-/*es padding-right@ stipvac avelacreci, vorovhetev mi hat animast padding-left ka, vorin es chem karum veracnem*/
 .social-icons {
-    padding-right: 40px;
+    padding: 0;
 }
 
 .social-icons li.rss {
@@ -252,15 +246,29 @@ footer h5 {
     .navbar-nav {
         margin: 25px 0 0 0;
     }
-    
+
     header .navbar-right {
         display: flex;
         justify-content: space-between;
         font-size: 15px;
     }
-    
+
     header .navbar-right li a {
         padding: 0;
+    }
+
+    .about {
+        padding: 40px 0;
+    }
+
+    .about h1 {
+        margin-bottom: 20px;
+        font-size: 40px;
+    }
+
+    .about p {
+        margin-bottom: 20px;
+        font-size: 30px;
     }
 }
 
