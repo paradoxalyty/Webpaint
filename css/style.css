@@ -16,7 +16,7 @@ paddingneri harcum djvaranum em
     background-color: #262626;
 }
 
-header .padding {
+header .ident {
     padding: 25px 0;
 }
 
@@ -246,6 +246,14 @@ footer h5 {
 
 /* Small Devices, Tablets */
 @media only screen and (max-width: 767px) {
+
+    header .ident {
+        margin: 0 15px;
+    }
+
+    .navbar-nav {
+        margin: 25px 0 0 0;
+    }
     
     header .navbar-right {
         display: flex;
@@ -256,16 +264,6 @@ footer h5 {
     header .navbar-right li a {
         padding: 0;
     }
-    
-    header .padding30 {
-        padding: 0 30px;
-    }
-
-    header .center {
-        text-align: center;
-    }
-
-    /*uzumey 1 toxi vra dasavorel, bayc chstacvec*/
 }
 
 /* Extra Small Devices, Phones */
